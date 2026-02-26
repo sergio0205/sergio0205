@@ -1,5 +1,11 @@
 # 💫 About Me:
-🚀 ¡Hola, mundo! Soy Sergio Cañas, un entusiasta de 21 años con una pasión por el aprendizaje y la programación. Mi misión: navegar por el vasto océano de conocimiento para desentrañar patrones ocultos y crear soluciones inteligentes. 💡<br><br>Apasionado por los nuevos retos, e decidido embarcarme en un emocionante viaje hacia la industria del desarrollo de software. Me emociona la idea de escribir codigo que me permita crecer y llevar a cabo lo aprendido a la pratica por medio de retos, me gusta el trabajo en equipo y el aprendizaje continuo. La pasión y disciplina son mi combustible.<br><br>Mi compromiso con la excelencia me impulsa a enfrentar desafíos con determinación y a mantenerme siempre alerta a nuevas oportunidades de aprendizaje. el aprendizaje continuo es mi guía, explorando algoritmos o siendo inspirado por otros programadores, busco hacer una marca significativa y apoyar con mis cualidades.
+🚀 ¡Hola, mundo! Soy Sergio Cañas, desarrollador en formación de 21 años apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones inteligentes mediante software. Mi misión es explorar el vasto océano del conocimiento para identificar patrones, resolver problemas y transformar ideas en aplicaciones reales que generen valor. 💡
+
+Actualmente me encuentro enfocado en el desarrollo web, trabajando con tecnologías fundamentales como HTML, CSS y JavaScript para construir interfaces modernas, dinámicas e intuitivas, y utilizando MySQL para diseñar y gestionar bases de datos eficientes, estructuradas y seguras. Me motiva entender no solo cómo funcionan las tecnologías, sino también cómo integrarlas para crear sistemas completos, funcionales y escalables.
+
+Soy una persona que disfruta enfrentar nuevos desafíos, escribir código que represente crecimiento y aplicar en la práctica cada nuevo concepto aprendido. Me apasiona el trabajo en equipo, la resolución de problemas y el proceso constante de mejora como desarrollador. La disciplina, la curiosidad y la perseverancia son los pilares que impulsan mi progreso.
+
+Mi compromiso con la excelencia me lleva a mantenerme en constante evolución, aprendiendo nuevas herramientas, explorando algoritmos y fortaleciendo mis habilidades en desarrollo de software. Mi objetivo es convertirme en un desarrollador altamente competente, capaz de construir soluciones innovadoras, aportar valor a cada proyecto y dejar una huella significativa en la industria tecnológica.
 
 
 
