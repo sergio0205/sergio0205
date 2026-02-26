@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 ¡Hola, mundo! Soy Sergio Cañas, desarrollador en formación de 21 años apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones inteligentes mediante software. Mi misión es explorar el vasto océano del conocimiento para identificar patrones, resolver problemas y transformar ideas en aplicaciones reales que generen valor. 💡
+🚀 ¡Hola, mundo! Soy Sergio Cañas, desarrollador en formación de 23 años apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones inteligentes mediante software. Mi misión es explorar el vasto océano del conocimiento para identificar patrones, resolver problemas y transformar ideas en aplicaciones reales que generen valor. 💡
 
 Actualmente me encuentro enfocado en el desarrollo web, trabajando con tecnologías fundamentales como HTML, CSS y JavaScript para construir interfaces modernas, dinámicas e intuitivas, y utilizando MySQL para diseñar y gestionar bases de datos eficientes, estructuradas y seguras. Me motiva entender no solo cómo funcionan las tecnologías, sino también cómo integrarlas para crear sistemas completos, funcionales y escalables.
 
